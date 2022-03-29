@@ -1,0 +1,4 @@
+- 👋 Hey, I’m @alexandraksc
+- 💞️ I’m interested in learning to be a very versatile dev :)
+- I’m currently learning js and python :)
+- 📫 @aleexa15pe@gmail.com

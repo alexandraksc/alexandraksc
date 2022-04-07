@@ -1,4 +1,4 @@
 - 💞️ Hey, I’m @alexandraksc
 - I’m interested in learning to be a full stack dev :)
-- I’m currently learning java script
+- I’m currently working on front-end little projects
 - 📫 @aleexa15pe@gmail.com
